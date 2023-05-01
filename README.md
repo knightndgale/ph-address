@@ -1,6 +1,6 @@
-# Data Deconstruct Addresses
+# Deconstruct PH Addresses
 
-This repository contains data for deconstructing Philippine addresses into 
+This repository contains deconstructed Philippine addresses into 
 their component parts, including region, province, municipality/city, and 
 barangay. The components are connected via `regCode`, `provCode`, and 
 `citymunCode`, with the barangay being connected to the stream of 
